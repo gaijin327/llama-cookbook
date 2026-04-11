@@ -6,7 +6,7 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "axios": "^1.7.7",
+    "axios": "^1.15.0",
     "force-graph": "^1.49.5",
     "fs": "^0.0.1-security",
     "lottie-react": "^2.4.0",
